@@ -3,3 +3,13 @@ GET /blogs ::1 Sat, 06 Aug 2022 13:53:38 GMT
 GET /blogs/create ::1 Sat, 06 Aug 2022 13:53:45 GMT
 POST /blogs ::1 Sat, 06 Aug 2022 13:55:50 GMT
 GET /blogs ::1 Sat, 06 Aug 2022 13:55:50 GMT
+GET / ::1 Sat, 06 Aug 2022 19:54:34 GMT
+GET /blogs ::1 Sat, 06 Aug 2022 19:54:34 GMT
+GET /blogs/create ::1 Sat, 06 Aug 2022 19:54:37 GMT
+GET /blogs/create ::1 Sat, 06 Aug 2022 19:55:11 GMT
+GET /blogs/create ::1 Sat, 06 Aug 2022 19:55:13 GMT
+GET /blogs/create ::1 Sat, 06 Aug 2022 19:55:14 GMT
+GET /blogs/create ::1 Sat, 06 Aug 2022 19:55:14 GMT
+GET /blogs/create ::1 Sat, 06 Aug 2022 19:55:14 GMT
+GET /blogs/create ::1 Sat, 06 Aug 2022 19:55:14 GMT
+GET /blogs/create ::1 Sat, 06 Aug 2022 19:55:37 GMT
